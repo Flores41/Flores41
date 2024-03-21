@@ -30,9 +30,7 @@
 
 
 <center>
-
 **Con pasión y humildad, cada línea de código es un nuevo aprendizaje. ¡Listo para explorar y crecer en el emocionante mundo del desarrollo! 💻🌱**
-
 </center>
 
 

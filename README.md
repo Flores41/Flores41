@@ -16,13 +16,14 @@
 ## 📟 GitHub Stats</h2>
 <div align="center">
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Flores41&show_icons=true&theme=dracula" alt="GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Flores41&show_icons=true&theme=dark" alt="GitHub Stats">
     </div>
     <br>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flores41&hide_progress=true_icons=true&theme=dracula" alt="Top Langs">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flores41&hide_progress=true_icons=true&theme=dark" alt="Top Langs">
     </div>
 </div>
+
 
 
 

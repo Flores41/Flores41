@@ -28,7 +28,8 @@
 
 
 
-<p align="center">
+<p align="center" style="margin-top: 50px; font-size: larger;">
    <strong>With passion and humility, each line of code is a new learning. Ready to explore and grow in the exciting world of development! 💻🌱</strong>
 </p>
+
 

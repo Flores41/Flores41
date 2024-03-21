@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello There, I'm Muhammad Aamir! 👋
-🔭 I’m currently building eTechViral.
+- Hello There, I'm Muhammad Aamir! 👋
+- 🔭 I’m currently building eTechViral.
 🌱 I’m currently learning AI Machine Learning...
 👯 I'm looking to collaborate on Youtube.
 💬 Ask me about Android, iOS, Flutter or any tech related Stuff.

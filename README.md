@@ -16,7 +16,7 @@
 ## 📟 GitHub Stats</h2>
 <div align="center">
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Flores41&show_icons=true&theme=dracula" alt="GitHub Stats" style="margin-bottom: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Flores41&show_icons=true&theme=dracula" alt="GitHub Stats" style="padding-bottom: 20px;">
     </div>
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flores41&hide_progress=true_icons=true&theme=dracula" alt="Top Langs" style="margin-bottom: 5px;">

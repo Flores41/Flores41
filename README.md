@@ -1,4 +1,4 @@
-## Hello!👋 I'm Jose Flores.
+## Hello, I'm José Flores! 👋
 
 <!--
 **Flores41/Flores41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

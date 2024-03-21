@@ -13,7 +13,7 @@
     <img src="https://camo.githubusercontent.com/bdb7731529e6563b08b823d27f981683f89fd666d434f6592cb901ba763277f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6669676d612d2532334632344531452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465" alt="Figma">
 </p>
 <div align="center">
-    <h2>📟 GitHub Stats</h2>
+    <h2 style="color: #8A2BE2;">📟 GitHub Stats</h2>
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Flores41&show_icons=true&theme=nord" alt="GitHub Stats">
     </div>
@@ -22,6 +22,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flores41&hide_progress=true_icons=true&theme=nord" alt="Top Langs">
     </div>
 </div>
+
 
 
 

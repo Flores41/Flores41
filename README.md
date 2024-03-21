@@ -15,8 +15,9 @@
 
 <div align="center">
     <h2>📟 GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=Flores41&show_icons=true&theme=dracula" alt="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flores41&hide_progress=true_icons=true&theme=dracula" alt="Top Langs">
+    <div style="display: flex; flex-direction: column;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Flores41&show_icons=true&theme=dracula" alt="GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flores41&hide_progress=true_icons=true&theme=dracula" alt="Top Langs">
+    </div>
 </div>
-
 

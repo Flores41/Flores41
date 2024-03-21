@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Hello There, I'm Muhammad Aamir! 👋
-- 🔭 I’m currently building eTechViral.
-🌱 I’m currently learning AI Machine Learning...
-👯 I'm looking to collaborate on Youtube.
-💬 Ask me about Android, iOS, Flutter or any tech related Stuff.
-😄 Pronouns: He / His of her.
-⚡ Fun fact: When I do code and while coding I sing song when I watch time so it is 6-AM then I tell my self that now I should sleep because its night.
-📫 How to reach me: Check social links below.
+- 👋 hello! I'm Jose Flores, a mobile app developer with Flutter.
+- 💼 I focus on mobile application development using Flutter, a technology that I am passionate about and in which I am committed to continuing to grow and perfect my skills.
+- 📫 I am excited to continue learning and growing in the field of mobile application development. Feel free to contact me through the social links below for collaborations and learning opportunities!

@@ -16,4 +16,4 @@
 ## 📟 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flores41&show_icons=true&theme=radical)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Flores41)](https://github.com/Flores41/github-readme-stats)
+

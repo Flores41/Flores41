@@ -1,4 +1,4 @@
-### Hi there 👋
+### hello!👋 I'm Jose Flores, a mobile app developer with Flutter.
 
 <!--
 **Flores41/Flores41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👋 hello! I'm Jose Flores, a mobile app developer with Flutter.
 - 💼 I focus on mobile application development using Flutter, a technology that I am passionate about and in which I am committed to continuing to grow and perfect my skills.
 - 📫 I am excited to continue learning and growing in the field of mobile application development. Feel free to contact me through the social links below for collaborations and learning opportunities!

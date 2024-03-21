@@ -15,21 +15,15 @@
 
 ## 📟 GitHub Stats</h2>
 <div align="center">
-    <style>
-        .github-stats-title {
-            color: #8A2BE2; /* Código de color para morado */
-        }
-    </style>
-    <h2 class="github-stats-title">📟 GitHub Stats</h2>
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Flores41&show_icons=true&theme=dark" alt="GitHub Stats">
     </div>
     <br>
-    <h2 class="github-stats-title">Top Languages</h2>
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flores41&hide_progress=true_icons=true&theme=dark" alt="Top Langs">
     </div>
 </div>
+
 
 
 

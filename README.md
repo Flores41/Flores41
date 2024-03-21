@@ -28,8 +28,9 @@
 
 
 
-<p align="center">
-    <h2 style="font-size: 24px;">With passion and humility, each line of code is a new learning.</h2>
-    <h2 style="font-size: 24px;">Ready to explore and grow in the exciting world of development! 💻🌱</h2>
-</p>
+## 
+
+## **With passion and humility, each line of code is a new learning.**  
+
+## **Ready to explore and grow in the exciting world of development! 💻🌱**  
 
